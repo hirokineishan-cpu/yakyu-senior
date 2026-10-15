@@ -1,0 +1,22 @@
+{
+  "name": "青森山田リトルシニア 野球記録",
+  "short_name": "山田シニア",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e7ece8",
+  "theme_color": "#1d3557",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
